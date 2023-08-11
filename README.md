@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hii,👋 I'm Yashvi Vaishnav</h1>
+<h2 align="center">Web Develorer</h2>
 <!--
 **yashvivaishnav/yashvivaishnav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
