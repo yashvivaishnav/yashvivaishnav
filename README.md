@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yashvi Vaishnav</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">It Student</h3>
+
+- 👯 I’m looking to collaborate with other Developers
+- 🌱 I’m currently learning React.js
+- 👀 I'm interested in Web Development
+- 📫 To connect with me Mail on at yashvivaishnav132@gmail.com
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
@@ -15,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashvivaishnav&show_icons=true&locale=en" alt="yashvivaishnav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashvivaishnav&" alt="yashvivaishnav" /></p>
-
